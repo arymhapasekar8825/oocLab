@@ -1,0 +1,16 @@
+//6.Write a program to perform addition of given number. 
+
+#include <stdio.h>
+
+int main() {
+    int a, b, sum;
+
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
+
+    sum = a + b;
+
+    printf("Addition = %d", sum);
+
+    return 0;
+}
