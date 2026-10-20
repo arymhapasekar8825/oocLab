@@ -1,0 +1,1 @@
+C++ is a high-performance, general-purpose programming language created by Bjarne Stroustrup in 1979 as an extension of the C language.
